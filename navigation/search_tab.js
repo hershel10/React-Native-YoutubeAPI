@@ -1,7 +1,5 @@
 import React from 'react';
-import { Button } from 'react-native';
 import { createStackNavigator } from '@react-navigation/stack';
-import Ionicons from 'react-native-vector-icons/FontAwesome';
 
 import VideoList from '../components/video_list';
 import VideoDetail from '../components/video_detail';
